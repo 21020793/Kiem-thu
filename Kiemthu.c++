@@ -16,7 +16,6 @@ int main() {
     cout << "Sensor value: ";
     int x;
     cin >> x;
-    cout << action(x) << endl;
     cout << "\n";
     cout << action(x) << endl;
     return 0; 
